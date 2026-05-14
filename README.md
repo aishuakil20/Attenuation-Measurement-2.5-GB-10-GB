@@ -66,19 +66,11 @@ Using the power budget equation and the parameters below, determine the attenuat
 ## Analysis and Report
 Compare simulation results with pre-lab calculations and record observations.  
 
-Your report should contain:
-- **Cover Page**
-  - Title of the lab  
-  - Course name and number  
-  - Your name  
+<img width="822" height="430" alt="image" src="https://github.com/user-attachments/assets/d8839922-c383-41df-910b-f3489a3b420c" />
 
-- **Pre-lab Calculations**  
 
-- **Screenshots** of layout and results (including eye diagrams)  
+<img width="606" height="676" alt="Screenshot 2026-05-14 134438" src="https://github.com/user-attachments/assets/de03f645-3293-4773-82bf-b9af9fb634e9" />
 
-- **Summary Table** for each simulation:
-  | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
-  |-------------------|-----------------------|----------|-----|
-  
+## Result 
 
-- **Written Summary** of observations and explanations of differences.  
+Thus the attenuation-limited fiber lenght based on the power budget equation is successfully simulated and verified.
